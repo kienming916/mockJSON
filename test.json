@@ -1,0 +1,11 @@
+{
+  "details": {
+    "name": "Tan Kien Ming",
+    "age": "3",
+    "home": "Bangi"
+  },
+  "favourites": {
+    "sports": ["Badminton", "Football", "Basketball"],
+    "food": ["chicken", "tofu"]
+  }
+}
